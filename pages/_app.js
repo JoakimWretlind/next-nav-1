@@ -17,10 +17,9 @@ export default MyApp
 // TODO:
 /**
  *  Custom Icons for mobile view
+ *  Fix the issue when switching screen-sizes
  *  active links
  *  Page-transitions for other pages
- *  pre-loader
  *  Custom close-arrow with animation
  *  Fix pagetransition models (customize framer motion?)
- *  Move animations to animations-file
  */

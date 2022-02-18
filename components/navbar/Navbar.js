@@ -81,6 +81,7 @@ const Navbar = () => {
                     <A onClick={handleClick} className="link4 link" ref={link4Ref}>contact</A>
                 </Link >
             </Nav>
+
             <LeftArrow className="leftArrow" onClick={handleClose} />
         </>
     )
